@@ -1,0 +1,14 @@
+{
+  "name": "yargs-project",
+  "version": "1.0.0",
+  "description": "yargs poc",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "tb",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
